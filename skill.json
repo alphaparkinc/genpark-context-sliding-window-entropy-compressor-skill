@@ -1,0 +1,11 @@
+{
+  "name": "genpark-context-sliding-window-entropy-compressor-skill",
+  "version": "1.0.0",
+  "description": "Computes per-turn Shannon information entropy and lexical density across dialogue trajectories to prune low-information filler and compress context within strict token budgets",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
